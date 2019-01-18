@@ -1,2 +1,2 @@
 # EvolutionSimulation01
-Basic evolutionary simulation where agents age, reproduce, and eat each other.
+Basic evolutionary simulation where agents age, move, reproduce, and eat each other.
